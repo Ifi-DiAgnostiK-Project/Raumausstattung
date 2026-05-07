@@ -1,43 +1,37 @@
 <!--
+author:    Hilke Domsch, Volker Göhler
+email:     hilke.domsch@gkz-ev.de
+date:      2025-07-08
+version:   0.1.3
 
-author:   Hilke Domsch, Volker Göhler
+narrator:  Deutsch Male
+language:  de
 
-email:    hilke.domsch@gkz-ev.de
+comment:   Goldener Schnitt -- Raumausstatter
 
-version:  0.1.3
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Raumausstattung/blob/main/materials/Raumausstatter_golderner_schnitt.md
 
-language: de
+logo:      ../assets/img/da_vinci.jpg
+icon:      ../assets/img/Logo_234px.png
 
-narrator: Deutsch Male
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/liaTemplates/algebrite/master/README.md
 
-comment:  Goldener Schnitt -- Raumausstatter
-
-edit: true
-date: 2025-07-08
-logo: ../assets/img/da_vinci.jpg
-icon: ../assets/img/Logo_234px.png
-
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-
-import: https://raw.githubusercontent.com/liaTemplates/algebrite/master/README.md
-
-tags:   Raumausstatter
+tags:      Raumausstatter
 
 @style
 .flex-container {
-    display: flex;[](https://liascript.github.io/LiveEditor/liascript/index.html?#5)
+    display: flex;
     flex-wrap: wrap; /* Allows the items to wrap as needed */
     align-items: stretch;
     gap: 20px; /* Adds both horizontal and vertical spacing between items */
 }
-
 .flex-child {
     flex: 1;
     margin-right: 20px; /* Adds space between the columns */
 }
-
 @media (max-width: 600px) {
     .flex-child {
         flex: 100%; /* Makes the child divs take up the full width on slim devices */
@@ -45,7 +39,6 @@ tags:   Raumausstatter
     }
 }
 @end
-
 -->
 
 # Der Goldene Schnitt

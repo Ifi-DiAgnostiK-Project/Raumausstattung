@@ -1,41 +1,38 @@
 <!--
+author:    Hilke Domsch; Florian Riefling
+email:     hilke.domsch@gkz-ev.de
+date:      2026-01-05
+version:   0.1.12
 
-author: Hilke Domsch; Florian Riefling
+narrator:  Deutsch Male
+language:  de
 
-email:    hilke.domsch@gkz-ev.de
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Raumausstattung/blob/main/materials/Raumausstatter_polstergestelle.md
 
-version: 0.1.12
-
-language: de
-
-narrator: Deutsch Male
-
-edit: true
-date: 2026-01-05
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/armrest_pixabay.jpg
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/armrest_pixabay.jpg
 
 attribute: https://pixabay.com/de/photos/armlehne-sessel-polsterer-stoff-647300/
 
-comment:  Holzverarbeitung im Raumausstatter-Handwerk (Polsterei)
+comment:   Holzverarbeitung im Raumausstatter-Handwerk (Polsterei)
 
-link: ./style.css
+link:      style.css
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Holzarten/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Holzarten/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
 
-title: R3/06 Konstruktive Holzgestelle beim Bau von Polstermöbeln
+title:     R3/06 Konstruktive Holzgestelle beim Bau von Polstermöbeln
 
-tags: Raumausstatter,
-      Polsterei,
-      Handwerk,
-      Polstergestelle,
-      Holzgestelle,
-      Werkstoffe Polstermöbel
+tags:      Raumausstatter,
+           Polsterei,
+           Handwerk,
+           Polstergestelle,
+           Holzgestelle,
+           Werkstoffe Polstermöbel
 
 @style
 .emphasis {
@@ -50,7 +47,6 @@ tags: Raumausstatter,
     font-weight: bolder;
 }
 @end
-
 -->
 
 # Holzgestelle als Baugerüst für Polstermöbel  🪑

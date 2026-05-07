@@ -1,30 +1,26 @@
 <!--
+author:    Hilke Domsch
+email:     hilke.domsch@gkz-ev.de
+date:      2025-06-24
+version:   0.1.3
 
-author:   Hilke Domsch
+narrator:  Deutsch Male
+language:  de
 
-email:    hilke.domsch@gkz-ev.de
+comment:   Grundkurs Raumausstatter
 
-version:  0.1.3
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Raumausstattung/blob/main/materials/Raumausstatter_gr_06.md
 
-language: de
+logo:      ../assets/img/hwk1.jpg
+icon:      ../assets/img/Logo_234px.png
 
-narrator: Deutsch Male
+tags:      Raumausstatter
 
-comment:  Grundkurs Raumausstatter
-
-edit: true
-date: 2025-06-24
-logo: ../assets/img/hwk1.jpg
-icon: ../assets/img/Logo_234px.png
-
-tags:   Raumausstatter
-
-link: ./style.css
+link:      style.css
 import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
            https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
            https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
            https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
 -->
 
 # Grundstufe Raumausstatter Kurs GR-06

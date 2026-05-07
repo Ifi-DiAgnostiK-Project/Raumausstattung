@@ -1,36 +1,34 @@
 <!--
+author:    Hilke Domsch
+email:     hilke.domsch@gkz-ev.de
+date:      2025-09-08
+version:   0.1.0
 
-author:   Hilke Domsch
-email:    hilke.domsch@gkz-ev.de
-version:  0.1.0
-language: de
-narrator: Deutsch Female
+narrator:  Deutsch Female
+language:  de
 
-edit: true
-date: 2025-09-08
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Raumausstattung/blob/main/materials/Raumausstatter_pflegesymbole.md
 
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/Textilpflegesymbole.png
-comment:  Kurs mit den Piktogrammen zur Textilpflege für Raumausstatter.
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/Textilpflegesymbole.png
 
-title: Raumausstatter - Textilpflegesymbole
+comment:   Kurs mit den Piktogrammen zur Textilpflege für Raumausstatter.
 
-link: ./style.css
+title:     Raumausstatter - Textilpflegesymbole
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
+link:      style.css
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 
-
-tags:   Textilpflege,
-        Bügeln,
-        Waschen,
-        Bleichen,
-        Trocknen,
-        Raumausstatter
-
+tags:      Textilpflege,
+           Bügeln,
+           Waschen,
+           Bleichen,
+           Trocknen,
+           Raumausstatter
 -->
 
 # Textilpflege - Symbole

@@ -1,40 +1,38 @@
 <!--
+author:    Hilke Domsch
+email:     hilke.domsch@gkz-ev.de
+date:      2026-01-22
+version:   0.1.5
 
-author:   Hilke Domsch
-email:    hilke.domsch@gkz-ev.de
-version:  0.1.5
-language: de
-narrator: Deutsch Male
+language:  de
+narrator:  Deutsch Male
 
-edit: true
-date: 2026-01-22
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Raumausstattung/blob/main/materials/Raumausstatter_Holzverbindungen.md
 
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/woodwall_corner.jpg
-attribute: "Quelle Titlebild: pixabay"
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/woodwall_corner.jpg
 
-comment:  Kurs zu den im Gestellbau für Polstermöbel übliche Holzverbindungen
+attribute: Quelle Titlebild: pixabay
 
-title: "R3/06 Holzverbindungen im Polstermöbelbau - Überblickswissen"
+comment:   Kurs zu den im Gestellbau für Polstermöbel übliche Holzverbindungen
 
-link: ./style.css
+title:     "R3/06 Holzverbindungen im Polstermöbelbau - Überblickswissen"
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Tapetensymbole/refs/heads/main/makros.md
+link:      style.css
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Tapetensymbole/refs/heads/main/makros.md
 
-
-tags:   Polstern,
-        Polstermöbel,
-        Gestellbau,
-        Polstergestellbau,
-        Holzverbindung,
-        Holz,
-        Raumausstatter
-
+tags:      Polstern,
+           Polstermöbel,
+           Gestellbau,
+           Polstergestellbau,
+           Holzverbindung,
+           Holz,
+           Raumausstatter
 -->
 
 # Holzverbindungen im Polstermöbelbau - Überblickswissen

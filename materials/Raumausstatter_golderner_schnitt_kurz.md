@@ -1,45 +1,39 @@
 <!--
+author:    Hilke Domsch, Volker Göhler
+email:     hilke.domsch@gkz-ev.de
+date:      2025-07-08
+version:   0.0.4
 
-author:   Hilke Domsch, Volker Göhler
+narrator:  Deutsch Male
+language:  de
 
-email:    hilke.domsch@gkz-ev.de
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Raumausstattung/blob/main/materials/Raumausstatter_golderner_schnitt_kurz.md
 
-version:  0.0.4
+comment:   Goldener Schnitt -- Kurzversion
 
-language: de
+logo:      ../assets/img/da_vinci.jpg
+icon:      ../assets/img/Logo_234px.png
 
-narrator: Deutsch Male
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/liaTemplates/algebrite/master/README.md
 
-comment:  Goldener Schnitt -- Kurzversion
+tags:      Raumausstatter
 
-edit: true
-date: 2025-07-08
-logo: ../assets/img/da_vinci.jpg
-icon: ../assets/img/Logo_234px.png
-
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-
-import: https://raw.githubusercontent.com/liaTemplates/algebrite/master/README.md
-
-tags: Raumausstatter
-
-title: Goldener Schnitt -- Kurzversion
+title:     Goldener Schnitt -- Kurzversion
 
 @style
 .flex-container {
-    display: flex;[](https://liascript.github.io/LiveEditor/liascript/index.html?#5)
+    display: flex;
     flex-wrap: wrap; /* Allows the items to wrap as needed */
     align-items: stretch;
     gap: 20px; /* Adds both horizontal and vertical spacing between items */
 }
-
 .flex-child {
     flex: 1;
     margin-right: 20px; /* Adds space between the columns */
 }
-
 @media (max-width: 600px) {
     .flex-child {
         flex: 100%; /* Makes the child divs take up the full width on slim devices */
@@ -47,7 +41,6 @@ title: Goldener Schnitt -- Kurzversion
     }
 }
 @end
-
 -->
 
 # Der Goldene Schnitt

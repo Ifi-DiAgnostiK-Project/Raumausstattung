@@ -1,7 +1,7 @@
 <!--
 author:    Hilke Domsch; Florian Riefling
 email:     hilke.domsch@gkz-ev.de
-date:      2025-11-27
+date:      2026-05-05
 version:   0.0.5
 
 narrator:  Deutsch Male
@@ -9,24 +9,12 @@ language:  de
 
 edit:      https://github.dev/Ifi-DiAgnostiK-Project/Raumausstattung/blob/main/materials/maler_untertapete.md
 
-icon:      ../assets/img/Logo_234px.png
-logo:      ../assets/img/tapete_eimer.jpg
-
-attribute: title image, by pixabay https://pixabay.com/de/photos/kleister-quast-leim-tapezieren-4964886/
-
-comment:   Kurse G-ML-24, ML2-24, ML3-24, MLGI2-24, MLGI4-24, MLGI5-24, MB2-24,
-           MB3-24, MB4-24, MGI2-04, MGI3-04, MGI4-04
-
-link:      style.css
-
-import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
-           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 
 title:     Verarbeitung von Untertapeten - Maler-/Lackiererhandwerk & Raumausstattung
-
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/tapete_eimer.jpg
+comment:   Grundkurs Raumausstatter, R2-Wand Raumausstatter
+attribute: title image, by pixabay https://pixabay.com/de/photos/kleister-quast-leim-tapezieren-4964886/
 tags:      Maler,
            Lackierer,
            Handwerk,
@@ -39,7 +27,16 @@ tags:      Maler,
            Schleifen,
            Kleister,
            Aufmaß
+
+link:      style.css
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
+
+
 
 # Verarbeitung von Untertapeten
 
@@ -72,7 +69,7 @@ Ihr Vorabeiter beauftragt Sie, das Wohnzimmer zu tapezieren.
 
 Er bittet Sie, ihm den notwendigen Arbeitsablauf vorzulegen.
 
-Sie sollen das konkrete Aufmaß für den Raum erstellen und alle benötigten Geräte und Werkzeuge aufschreiben.
+Sie sollen das konkrete Aufmaß für den Raum aufnehmen (Schritt 1) und alle benötigten Geräte und Werkzeuge bereitstellen (Schritt 2).
 
 
 <section class="flex-container border">
@@ -82,7 +79,7 @@ Sie sollen das konkrete Aufmaß für den Raum erstellen und alle benötigten Ger
 Bringen Sie den Arbeitsablauf zur Verarbeitung von Untertapeten in eine richtige Reihenfolge!
 
 <!-- data-randomize data-show-partial-solution -->
-@dragdroporder(@uid,Aufmaß der Flächen und Mengen - Berechnung des Materials der Makulatur|Bereitstellen der Geräte und Werkzeuge|Untergründe prüfen und vorbereiten|Altanstriche bzw. Alttapteten entfernen|spachteln und schleifen|Kleber für Kleistergerät ansetzen|Kleistergerät mit Kleber und Tapete bestücken|Tapeten einkleistern|Tapeten verkleben: erst Decke - dann Wand|Anschlüsse an Wand - Decken - Scheuerleisten sauber abschneiden)
+@dragdroporder(@uid,Aufmaß der Flächen und Mengen - Berechnung des Materials der Makulatur|Bereitstellen der Geräte und Werkzeuge|Altanstriche bzw. Alttapteten entfernen|Untergründe prüfen und vorbereiten|spachteln und schleifen|Kleber für Kleistergerät ansetzen|Kleistergerät mit Kleber und Tapete bestücken|Tapeten einkleistern|Tapeten verkleben: erst Decke - dann Wand|Anschlüsse an Wand - Decken - Scheuerleisten sauber abschneiden)
 
 </div>
 <div class="flex-child-0">

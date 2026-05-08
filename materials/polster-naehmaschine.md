@@ -50,7 +50,6 @@ Mit diesem Quiz überprüfen Sie Ihr Wissen zu:
 - Sicherheit
 - richtige Bedienung
 
-Im Quiz überprüft ihr anschließend, ob ihr die Maschine sicher einordnen und die wichtigsten Arbeitsschritte erklären könnt
 
 ------------
 

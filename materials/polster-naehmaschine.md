@@ -57,7 +57,7 @@ Mit diesem Quiz überprüfen Sie Ihr Wissen zu:
 
 <center>
 
-![Polster-Naehmaschine](../assets/img/cd35b038f82ff30d361e9631aebbaabce8a1dfa6.png" _Foto: Kay Deblitz, HWK Dresden_")<!-- style="max-width: 250px; width: 100%" -->
+![Polster-Naehmaschine](../assets/img/cd35b038f82ff30d361e9631aebbaabce8a1dfa6.jpg " _Foto: Kay Deblitz, HWK Dresden_")
 
 </center>
 

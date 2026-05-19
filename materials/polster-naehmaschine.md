@@ -7,7 +7,7 @@ version:   0.0.1
 narrator:  Deutsch Male
 language:  de
 
-edit:      true
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Raumausstattung/blob/main/materials/polster-naehmaschiene.md
 icon:      ../assets/img/Logo_234px.png
 logo:      ../assets/img/cd35b038f82ff30d361e9631aebbaabce8a1dfa6.jpg
 

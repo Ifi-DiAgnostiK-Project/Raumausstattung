@@ -1,15 +1,15 @@
 <!--
 author:    Hilke Domsch; Anne-Kristin Schmidt; Kay Deblitz
 email:     hilke.domsch@gkz-ev.de
-date:      2026-04-20
+date:      2026-05-08
 version:   0.0.1
 
 narrator:  Deutsch Male
 language:  de
 
-edit:      https://github.dev/Ifi-DiAgnostiK-Project/Raumausstattung/blob/main/materials/polster-naehmaschiene.md
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Raumausstattung/blob/main/materials/polster-naehmaschine.md
 icon:      ../assets/img/Logo_234px.png
-logo:      ../assets/img/cd35b038f82ff30d361e9631aebbaabce8a1dfa6.jpg
+logo:      ../assets/img/e6a2940f3609f54a920128b6d84f56e321581cf2.jpg
 
 title:     Polster-Nähmaschine GR-06 | R3-03 Grundkurs-Überprüfungsfragen
 comment:   Überprüfungsfragen Kurs GR-06 Grundstufe Nähmaschine | Kurs R3-03 Polstertechniken
@@ -29,9 +29,6 @@ import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_Dr
 -->
 
 # Die Polster-Nähmaschine
-
-<!-- style="font-weight: bolder; font-size: 16pt; color: blue;"-->
-Grundkurs-Überprüfungsfragen
 
 Die Polster<!-- style="font-weight: bolder; font-size: 11pt; color: green;"-->-<!-- style="font-weight: bolder; font-size: 11pt; color: green;"-->Nähmaschine<!-- style="font-weight: bolder; font-size: 11pt; color: green;"-->, auch Schnellnäher<!-- style="font-weight: bolder; font-size: 11pt; color: green;"--> genannt, ist ein zentrales Arbeitsmittel im Raumausstatterhandwerk.\
 Sie wird für folgende Arbeitsgänge eingesetzt: 
@@ -53,40 +50,32 @@ Mit diesem Quiz überprüfen Sie Ihr Wissen zu:
 
 ------------
 
-<br>
-
 <center>
 
-![Polster-Naehmaschine](../assets/img/cd35b038f82ff30d361e9631aebbaabce8a1dfa6.jpg " _Foto: Kay Deblitz, HWK Dresden_")
+![Polster-Naehmaschine](../assets/img/b4bf8fb0b782bbcaa593ebd2f3471fd302a24e8c.jpg " _Foto: Kay Deblitz, HWK Dresden_")<!-- style="max-width: 250px; width: 100%" -->
 
 </center>
 
-## Einsatzgebiete & Besonderheiten
+## Geschichte & Bauformen
 
 
 <section class="flex-container border">
 <div class="flex-child">
 
 <!-- class="highlight" -->
-Wofür wird die Polster-Nähmaschine eingesetzt?
+Setzen Sie die passenden Wörter in die jeweiligen Felder im nachfolgenden Text.
 
 <!--
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
 -->
-- [(X)] Nähen von dicken Materialien wie Leder und Möbelbezüge
-- [( )] Herstellung von Strickwaren
-- [( )] Reparatur von Schuhen im Haushalt
-- [( )] Herstellung von Abpolsterungen für Verpackungen
-********************
-Polster-Nähmaschinen eignen sich für das Nähen dicker Materialien wie Leder und Möbelbezüge.
-********************
+Die Geschichte der Nähmaschinen beginnt im [->[  (19. Jahrhundert) | 18. Jahrhundert ]], als der Bedarf nach einer mechanischen Lösung für das Nähen von Stoffen immer größer wurde.
 
 </div>
 <div class="flex-child-2 center">
 
-![Fragezeichen](../assets/img/ac83f3ef70c356ca93f84a9b69171c20ce152366.jpg "[_Quelle: Freepik, starline_](https://www.magnific.com/de/fotos-kostenlos/schneiderei-prozesse_5633583.htm#fromView=search&page=1&position=1&uuid=5ad5dbe3-ebad-4051-8b25-5db8653400b2&query=Naehmaschine)")<!-- style="max-width: 450px; width: 100%" -->
+![alte_Naehmaschine](../assets/img/ac58482dc666bb23b70c1b5d8f1f94a24cdf4727.jpg "_Quelle: HWK Dresden, Kay Deblitz_")<!-- style="max-width: 450px; width: 100%" -->
 
 </div>
 </section>
@@ -95,28 +84,107 @@ Polster-Nähmaschinen eignen sich für das Nähen dicker Materialien wie Leder u
 <div class="flex-child">
 
 <!-- class="highlight" -->
-Über welche Besonderheiten verfügt die Polster-Nähmaschine im Vergleich zu anderen Nähmaschinen?
+Welche Bauformen sind typisch für Polsternähermaschinen?
+
+<!-- style="font-weight: bolder; font-size: 10pt; color: #A00000;"-->
+Es sind mehrere Antworten richtig!
 
 <!--
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
 -->
-- [(X)] Hohe Durchstichkraft und stabiler Transport
-- [( )] Viele Zierstiche und kompakte Bauweise
-- [( )] Batteriebetrieb und WLAN-Verbindung
-- [( )] Touchscreen-Bedienfeld und Sprachsteuerung
+- [[X]] Flachbettmaschine
+- [[X]] Säulenmaschine
+- [[X]] Langarmmaschine
+- [[ ]] Midi-Maschine
+- [[ ]] Spindelarmmaschine
 ********************
-Die Polster-Nähmaschine verfügt im Vergleich zu anderen Nähmaschinen über eine hohe Durchschlagkraft und einen stabilen Materialtransport.
+Folgende Bauformen sind typisch:
+- Flachbettmaschine
+- Säulenmaschine
+- Langarmmaschine
 ********************
 
 </div>
 <div class="flex-child-2 center">
 
-![Schneiderei_Prozesse](../assets/img/5daadcd5b52cfe0ece2e94223c3d7ac511d0695d.jpg "[_Quelle: Freepik, magnific pressfoto_](https://www.magnific.com/de/fotos-kostenlos/schneiderei-prozesse_5633583.htm#fromView=search&page=1&position=1&uuid=5ad5dbe3-ebad-4051-8b25-5db8653400b2&query=Naehmaschine)")<!-- style="max-width: 450px; width: 100%" -->
+![Fabrik_Naehmaschinen](../assets/img/148055bdf3467a0bb20a33d23c52f1e424fc85ca.jpg" [_Quelle: Freepik, prostooleh_](https://www.magnific.com/de/fotos-kostenlos/frau-steht-in-der-fabrik-mit-einem-faden_6633981.htm#fromView=search&page=2&position=29&uuid=c4ae35db-6575-4660-a025-abb17e8abc6b&query=n%C3%A4hmaschinen)")<!-- style="max-width: 450px; width: 140%;  margin-left: -120px; margin-top: 30px;" -->
 
 </div>
 </section>
+
+## Aufbau einer Polster-Nähmaschine - 1
+
+<section class="flex-container border">
+<div class="flex-child">
+
+<!-- class="highlight"-->
+Ordnen Sie die Maschinenbauteile 1 - 7 im Bild richtig zu.
+
+<br>
+
+<!--
+data-randomize
+data-solution-button="off"
+data-max-trials="3"
+-->
+1<!--style="color: blue; font-weight: bolder"-->  =  [[  Maschinenoberteil Kopf-Arm-Ständer | (Garnständer)   | Schubkasten |   Wickelmotor   | Aufnahmegerät   ]]
+********************
+1. Garnständer
+********************
+
+<!--
+data-randomize
+data-solution-button="off"
+data-max-trials="3"
+-->
+2<!--style="color: blue; font-weight: bolder"-->  =  [[  Bedienteil |  Webboden   | Fußablage |   Steuerung der Nähgeschwindigkeit   | (Pedal)     ]]
+********************
+2. Pedal
+********************
+
+<!--
+data-randomize
+data-solution-button="off"
+data-max-trials="3"
+-->
+3<!--style="color: blue; font-weight: bolder"-->  =  [[  Motorblock |   Nähtaster |  Garnmanschette  | Auszug für Tischverlängerung  |   (Schubkasten)   ]]
+********************
+3. Schubkasten
+********************
+
+<!--
+data-randomize
+data-solution-button="off"
+data-max-trials="3"
+-->
+4<!--style="color: blue; font-weight: bolder"-->  =  [[ (Tischplatte) |  Mustertisch    | Nähauflage  |   Scherentisch   | Display    ]]
+********************
+4. Tischplatte
+********************
+
+<!--
+data-randomize
+data-solution-button="off"
+data-max-trials="3"
+-->
+5<!--style="color: blue; font-weight: bolder"-->  =  [[  Musterdisplay |  Motorsteuerung    | Garnbox  |   (Bedienteil)    | Radio   ]]
+********************
+5. Bedienteil
+********************
+
+
+
+</div>
+<div class="flex-child-2 center">
+![Naehmanschine-Aufbau_klein](../assets/img/e06859daf8c23bd92cb2a5e044ebbe0fd30b84c2.jpg" _Quelle: Kay Deblitz, HWK Dresden_")<!-- style="max-width: 550px; width: 150%; margin-left: -180px; margin-top: 30px;" -->
+
+
+</div>
+</section>
+
+
 
 ## Sicherheits- & Pflegeregeln
 
@@ -142,7 +210,7 @@ Bei Wartungsarbeiten an der Maschine ist immer der Strom abzuschalten oder der N
 </div>
 <div class="flex-child-2 center">
 
-![Sicher](../assets/img/93894f4a2c7a7c4fcb1e2cab8f278f2d7ea57a65.jpg "[_Quelle: Pixabay, succo_](https://pixabay.com/illustrations/security-secure-protection-osh-1004655/)")<!-- style="max-width: 450px; width: 100%" -->
+![Sicher](../assets/img/93894f4a2c7a7c4fcb1e2cab8f278f2d7ea57a65.jpg" [_Quelle: Pixabay, succo_](https://pixabay.com/illustrations/security-secure-protection-osh-1004655/)")<!-- style="max-width: 450px; width: 100%" -->
 
 </div>
 </section>
@@ -202,7 +270,7 @@ Mit einer Polster-Nähmaschine können Leder, Möbelbezugsstoffe und Kunstleder 
 </div>
 <div class="flex-child-2 center">
 
-![Naehen](../assets/img/c5ef0e12df26de68c79b8323ecac51ad6e6659ec.jpg "[_Quelle: Freepik, magnific.com_](https://www.magnific.com/de/fotos-kostenlos/schneiderei-artikel-arrangement-stillleben_38306793.htm#fromView=search&page=1&position=9&uuid=37c6205e-085d-4753-825f-e14c1f3596d2&query=N%C3%A4hmaschine)")<!-- style="max-width: 450px; width: 100%" -->
+![Naehen](../assets/img/5ef0e12df26de68c79b8323ecac51ad6e6659ec.jpg" [_Quelle: Freepik, magnific.com_](https://www.magnific.com/de/fotos-kostenlos/schneiderei-artikel-arrangement-stillleben_38306793.htm#fromView=search&page=1&position=9&uuid=37c6205e-085d-4753-825f-e14c1f3596d2&query=N%C3%A4hmaschine)")<!-- style="max-width: 450px; width: 100%" -->
 
 </div>
 </section>
@@ -231,7 +299,7 @@ Für Näharbeiten mit der Polster-Nähmaschine werden nur Polyester-Garne verwen
 </div>
 <div class="flex-child-2 center">
 
-![Garne](../assets/img/6159cd02635dba529c0ce5ec0a42c6a7256c5396.jpg "[_Quelle: Freepik, pikisuperstar_](https://www.magnific.com/de/fotos-kostenlos/sag-nein-zum-fast-fashion-konzept-mit-faden_38251967.htm#uuid=37c6205e-085d-4753-825f-e14c1f3596d2?log-in=google)")<!-- style="max-width: 450px; width: 100%" -->
+![Garne](../assets/img/6159cd02635dba529c0ce5ec0a42c6a7256c5396.jpg" [_Quelle: Freepik, pikisuperstar_](https://www.magnific.com/de/fotos-kostenlos/sag-nein-zum-fast-fashion-konzept-mit-faden_38251967.htm#uuid=37c6205e-085d-4753-825f-e14c1f3596d2?log-in=google)")<!-- style="max-width: 450px; width: 100%" -->
 
 </div>
 </section>
@@ -300,8 +368,7 @@ data-max-trials="3"
 
 </div>
 <div class="flex-child-2 center">
-
-![Naehmaschine_Teil1](../assets/img/040883cf767c9be2f15cc257f41c8965f92e0c3e.png "_Quelle: Kay Deblitz, HWK Dresden_")<!-- style="max-width: 550px; width: 210%; margin-left: -180px; margin-top: 30px;" -->
+![Naehmaschine_Teil1](040883cf767c9be2f15cc257f41c8965f92e0c3e.jpg " _Quelle: Kay Deblitz, HWK Dresden_")<!-- style="max-width: 550px; width: 210%; margin-left: -180px; margin-top: 30px;" -->
 
 
 </div>
@@ -336,7 +403,7 @@ Zum fachgerechten Einrichten einer Nähmaschine gehören:
 </div>
 <div class="flex-child-2 center">
 
-![Naeh-Stilleben](../assets/img/4333cd17e76e2c355b9bfa4341055e69a67061f5.jpg "[_Quelle: Freepik_](https://www.magnific.com/de/fotos-kostenlos/schneiderei-artikel-arrangement-stillleben_38306699.htm)")<!-- style="max-width: 450px; width: 100%" -->
+![Naeh-Stilleben](../assets/img/4333cd17e76e2c355b9bfa4341055e69a67061f5.jpg" [_Quelle: Freepik_](https://www.magnific.com/de/fotos-kostenlos/schneiderei-artikel-arrangement-stillleben_38306699.htm)")<!-- style="max-width: 450px; width: 100%" -->
 
 </div>
 </section>
@@ -363,7 +430,7 @@ An oberster Stelle steht der erste Arbeitsschritt.
 
 <br>
 
-![Naehmaschine](../assets/img/90f524b405dc55ed2df8c8864c4493e082ae7249.jpg "_Quelle: HWK Dresden, Kay Deblitz_")<!-- style="width: 500px;" -->
+![Naehmaschine](../assets/img/90f524b405dc55ed2df8c8864c4493e082ae7249.jpg" _Quelle: HWK Dresden, Kay Deblitz_")<!-- style="width: 500px;" -->
 
 
 </div>
@@ -434,8 +501,7 @@ data-max-trials="3"
 
 </div>
 <div class="flex-child-2 center">
-
-![Naehmaschine_Tl2](../assets/img/f771b1365f72d7641bee2ae4572362db69108249.jpg "_Quelle: Kay Deblitz, HWK Dresden_")<!-- style="max-width: 500px; width: 170%; margin-left: -150px; margin-top:0px;" -->
+![Naehmaschine_Tl2](../assets/img/f771b1365f72d7641bee2ae4572362db69108249.jpg " _Quelle: Kay Deblitz, HWK Dresden_")<!-- style="max-width: 500px; width: 170%; margin-left: -150px; margin-top:0px;" -->
 
 
 </div>
@@ -470,7 +536,7 @@ Es wird der Gerad- und Doppelsteppstich genutzt.
 </div>
 <div class="flex-child-2 center">
 
-![Naehmaschine](../assets/img/aa796974982e4399c11037fb4d280eefea9a4955.jpg "[_Quelle: Freepik, magnific.com_](https://www.magnific.com/de/fotos-kostenlos/schneiderei-artikel-arrangement-stillleben_38306797.htm#fromView=search&page=1&position=11&uuid=3d82e82c-19ff-4318-849f-1214e4e28226&query=n%C3%A4hmaschine)")<!-- style="max-width: 450px; width: 100%" -->
+![Naehmaschine](../assets/img/aa796974982e4399c11037fb4d280eefea9a4955.jpg" [_Quelle: Freepik, magnific.com_](https://www.magnific.com/de/fotos-kostenlos/schneiderei-artikel-arrangement-stillleben_38306797.htm#fromView=search&page=1&position=11&uuid=3d82e82c-19ff-4318-849f-1214e4e28226&query=n%C3%A4hmaschine)")<!-- style="max-width: 450px; width: 100%" -->
 
 </div>
 </section>
@@ -501,7 +567,7 @@ Es werden Ledernadeln LR und Nadeln mit einer Nadelstärke Nm 120 verwendet.
 </div>
 <div class="flex-child-2 center">
 
-![Naehmaschinennadel](../assets/img/2981574d713e44ab1986275ff722a2328b895ff2.jpg "[_Quelle: Pixabay, venturaartist_](https://pixabay.com/photos/sewing-machine-sewing-precision-262454/)")<!-- style="max-width: 450px; width: 150%; margin-left: -100px; margin-top:0px;" -->
+![Naehmaschinennadel](../assets/img/2981574d713e44ab1986275ff722a2328b895ff2.jpg" [_Quelle: Pixabay, venturaartist_](https://pixabay.com/photos/sewing-machine-sewing-precision-262454/)")<!-- style="max-width: 450px; width: 150%; margin-left: -100px; margin-top:0px;" -->
 
 </div>
 </section>
@@ -510,5 +576,5 @@ Es werden Ledernadeln LR und Nadeln mit einer Nadelstärke Nm 120 verwendet.
 
 
 <center>
-![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
 </center>

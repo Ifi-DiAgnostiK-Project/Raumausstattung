@@ -6,7 +6,7 @@ title: >
 comment: >
   <br>
   <span style="background-color: rgba(201, 168, 76, 0.75); padding: 8px; color: white; border-radius: 5px;">
-    Raumaustattung
+    Raumausstattung
   </span>
 
 logo: https://ifi-diagnostik-project.github.io/assets/img/slogan_hero.jpg
@@ -30,7 +30,7 @@ navbar:
       url: https://ifi-diagnostik-project.github.io/Zahntechnik
     - label: Malerhandwerk
       url: https://ifi-diagnostik-project.github.io/Malerhandwerk
-    - label: Raumaustattung
+    - label: Raumausstattung
       active: true
       url: https://ifi-diagnostik-project.github.io/Raumausstattung
     - label: Belehrungen
@@ -69,7 +69,8 @@ meta:
   title: DiAgnostiK – Raumausstatter
   description: >
     Lerneinheiten für Raumausstatter: Holzverbindungen, Goldener Schnitt,
-    Pflegesymbole, Polstergestelle und Tapeziertechniken für die Berufsausbildung.
+    Pflegesymbole, Polstergestelle, Tapeziertechnik und Polster-Nähmaschine
+    für die Berufsausbildung.
 
 # Main course collection
 collection:
@@ -88,12 +89,13 @@ collection:
       </div>
 
 
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Raumausstattung/refs/heads/main/materials/Raumausstatter_Holzverbindungen.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Raumausstattung/refs/heads/main/materials/Raumausstatter_golderner_schnitt.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Raumausstattung/refs/heads/main/materials/Raumausstatter_golderner_schnitt_kurz.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Raumausstattung/refs/heads/main/materials/Raumausstatter_gr_06.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Raumausstattung/refs/heads/main/materials/Raumausstatter_pflegesymbole.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Raumausstattung/refs/heads/main/materials/Raumausstatter_polstergestelle.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Raumausstattung/refs/heads/main/materials/maler_tapetensymbole.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Raumausstattung/refs/heads/main/materials/maler_untertapete.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Raumausstattung/refs/heads/main/materials/polster-naehmaschine.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/raumausstattung-holzverbindungen/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/raumausstattung-goldener-schnitt/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/raumausstattung-goldener-schnitt-kurz/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/raumausstattung-grundstufe-gr-06/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/raumausstattung-textilpflegesymbole/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/raumausstattung-polstergestelle/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/raumausstattung-tapezierwerkzeuge/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/raumausstattung-tapetensymbole/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/raumausstattung-untertapeten/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/raumausstattung-polster-naehmaschine/refs/heads/main/README.md

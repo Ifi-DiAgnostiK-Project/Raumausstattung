@@ -1,0 +1,30 @@
+[submodule "materials/raumausstattung-holzverbindungen"]
+	path = materials/raumausstattung-holzverbindungen
+	url = https://github.com/Ifi-DiAgnostiK-Project/raumausstattung-holzverbindungen.git
+[submodule "materials/raumausstattung-goldener-schnitt"]
+	path = materials/raumausstattung-goldener-schnitt
+	url = https://github.com/Ifi-DiAgnostiK-Project/raumausstattung-goldener-schnitt.git
+[submodule "materials/raumausstattung-goldener-schnitt-kurz"]
+	path = materials/raumausstattung-goldener-schnitt-kurz
+	url = https://github.com/Ifi-DiAgnostiK-Project/raumausstattung-goldener-schnitt-kurz.git
+[submodule "materials/raumausstattung-grundstufe-gr-06"]
+	path = materials/raumausstattung-grundstufe-gr-06
+	url = https://github.com/Ifi-DiAgnostiK-Project/raumausstattung-grundstufe-gr-06.git
+[submodule "materials/raumausstattung-textilpflegesymbole"]
+	path = materials/raumausstattung-textilpflegesymbole
+	url = https://github.com/Ifi-DiAgnostiK-Project/raumausstattung-textilpflegesymbole.git
+[submodule "materials/raumausstattung-polstergestelle"]
+	path = materials/raumausstattung-polstergestelle
+	url = https://github.com/Ifi-DiAgnostiK-Project/raumausstattung-polstergestelle.git
+[submodule "materials/raumausstattung-tapezierwerkzeuge"]
+	path = materials/raumausstattung-tapezierwerkzeuge
+	url = https://github.com/Ifi-DiAgnostiK-Project/raumausstattung-tapezierwerkzeuge.git
+[submodule "materials/raumausstattung-tapetensymbole"]
+	path = materials/raumausstattung-tapetensymbole
+	url = https://github.com/Ifi-DiAgnostiK-Project/raumausstattung-tapetensymbole.git
+[submodule "materials/raumausstattung-untertapeten"]
+	path = materials/raumausstattung-untertapeten
+	url = https://github.com/Ifi-DiAgnostiK-Project/raumausstattung-untertapeten.git
+[submodule "materials/raumausstattung-polster-naehmaschine"]
+	path = materials/raumausstattung-polster-naehmaschine
+	url = https://github.com/Ifi-DiAgnostiK-Project/raumausstattung-polster-naehmaschine.git
